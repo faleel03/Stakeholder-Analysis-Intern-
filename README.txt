@@ -12,7 +12,7 @@ Methodology:
 Tools and Technologies:
 
 	•	Python for data preprocessing and NLP
-	•	Tableau and Power BI for data visualization
+	•	Tableau for data visualization
 	•	Excel for data organization
 
 Outcome:
